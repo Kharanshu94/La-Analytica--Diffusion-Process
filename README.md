@@ -13,3 +13,6 @@ Two Individual solutions were develop which works in tandom to analyse real-time
 La Analytica -  An VBA based excel is installed in PC located in remote place where a person can Analyse Zone-wise  Rsheet data
 
 La Stimulus -  This is installed in machine which continuously transfer data to La Analytica software.
+
+![La Analytica](https://user-images.githubusercontent.com/81503130/138592329-f694ba8c-004d-4460-896e-eb55a0baccf9.png)
+
